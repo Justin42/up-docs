@@ -1,0 +1,33 @@
+BridgeConnectionNetworkObject.AuthToken Property
+================================================
+
+**[This is preliminary documentation and is subject to change.]**
+
+[Missing documentation for
+“P:BeardedManStudios.Forge.Networking.Generated.BridgeConnectionNetworkObject.AuthToken”]
+
+**Namespace:** BeardedManStudios.Forge.Networking.Generated\ **Assembly:** Assembly-CSharp
+(in Assembly-CSharp.dll) Version: 0.0.0.0
+
+Syntax
+------
+
+**C#**\ 
+
+.. code:: c#
+
+   public byte AuthToken { get; set; }
+
+Property Value
+~~~~~~~~~~~~~~
+
+Type: Byte
+
+See Also
+--------
+
+Reference
+~~~~~~~~~
+
+BridgeConnectionNetworkObject
+ClassBeardedManStudios.Forge.Networking.Generated Namespace
